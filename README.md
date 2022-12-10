@@ -1,10 +1,5 @@
-- 👋 Hi, I’m  Raquel
-- 👀 I’m interested in  to lear
-- 🌱 I’m currently learning ...analise e desenvolvimento de sistemas
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...raquelesilvele@gmail.com 
-
-<!---
-RaquelETEC/RaquelETEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá 
+Me chamo Raquel e atualmenente faço graduação em análise e desenvolvimento de sistemas
+e trabalho como analista de sistemas Jr em uma empresa de software ERP.
+Possuo conhecimento em linguagem Java, C# e SQL para banco de dados. 
+Estou a procura de oportunidades para atuar como programadora. 
