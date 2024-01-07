@@ -1,5 +1,22 @@
-Olá 
-Me chamo Raquel e atualmente faço graduação em análise e desenvolvimento de sistemas,
-trabalho como analista de sistemas Jr em uma empresa de software ERP.
-Possuo conhecimento em linguagem Java, C# e SQL para banco de dados. 
-Estou a procura de oportunidades para atuar como programadora. 
+# Olá, eu sou a Raquel! 👋
+
+🎓 Estou no último semestre em Análise e Desenvolvimento de Sistemas.
+💼 Sou estagiária em Análise e Desenvolvimento de Sistemas.
+
+Tenho experiência e conhecimento em:
+
+👩‍💻 Linguagens:
+- JAVA
+- C#
+- ReactJS
+- JavaScript (JS)
+
+💾 Banco de Dados:
+- FireBird
+- MySQL
+- Oracle
+- SQL Server
+- PostgreSQL
+- FireBase
+
+Estou sempre em busca de novos desafios e oportunidades para aprender mais!
